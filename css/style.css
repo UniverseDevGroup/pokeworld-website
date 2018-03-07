@@ -50,12 +50,12 @@ header nav {
 }
 
 header .current a {
-    color:#0ab12e;
+    color:#0a4db1;
     font-weight:bold;
 }
 
 header a:hover {
-    color:#2f773d;
+    color:#302f77;
     font-weight:Bold;
 }
 
