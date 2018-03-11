@@ -1,0 +1,68 @@
+body {
+    font-family: Segoe UI, Helvetica, Arial;
+    padding:0;
+    margin:0;
+    background-color:#3e443e;
+    color:white;
+}
+
+.container {
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+header {
+    background-color:#262627;
+    color:white;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:#0a4db1 3px solid;
+}
+
+header a {
+    color:white;
+    text-decoration:none;
+    font-size:16px;
+}
+
+header ul {
+    margin:0;
+    padding:0;
+}
+
+header li {
+    display:inline;
+    padding: 0 20px 0 20px;
+}
+
+header #branding {
+    float:left;
+}
+
+header #branding h1 {
+    margin:0;
+}
+
+header nav {
+    float:right;
+    margin-top:10px;
+}
+
+header .current a {
+    color:#0a4db1;
+    font-weight:bold;
+}
+
+header a:hover {
+    color:#302f77;
+    font-weight:Bold;
+}
+
+footer {
+    padding:20px;
+    margin-top:20px;
+    color:white;
+    background-color: #0a4db1;
+    text-align: center;
+}
