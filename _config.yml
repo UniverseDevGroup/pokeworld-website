@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "PokeWorld Managers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "We make PokeBot happen."
+  location         : "PokeWorld"
   email            :
   links:
     - label: "Email"
