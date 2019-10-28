@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "PokeWorld"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "PokeWorld Development Team"
+name                     : "PokeWorld"
 description              : "A wonderful discord server where pokemon enthusiasts can join."
 url                      : "http://universedevgroup.net/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "PokeWorld Managers"
+  name             : "PokeWorld Development Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We make PokeBot happen."
   location         : "PokeWorld"

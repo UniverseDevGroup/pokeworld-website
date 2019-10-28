@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Posts"
+    url: /posts
   - title: "Discord"
     url: https://discord.gg/6ng7xmp
   - title: "PokeBot"
