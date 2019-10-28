@@ -4,6 +4,8 @@ main:
     url: /posts
   - title: "Discord"
     url: https://discord.gg/6ng7xmp
+  - title: "Community Rules"
+    url: /rules
   - title: "PokeBot"
     url: /pokebot
   - title: "About"
