@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PokeWorld Development Team"
 description              : "A wonderful discord server where pokemon enthusiasts can join."
-url                      : "https://universedevgroup.net/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://universedevgroup.net/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"
 repository               : "UniverseDevGroup/pokeworld-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

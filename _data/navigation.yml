@@ -1,12 +1,8 @@
 # main links
 main:
+  - title: "Discord"
+    url: https://discord.gg/6ng7xmp
   - title: "PokeBot"
     url: /pokebot
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about
