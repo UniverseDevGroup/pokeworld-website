@@ -2,6 +2,7 @@
 
 backend:
   name: git-gateway
+  repo: UniverseDevGroup/pokeworld-website
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
