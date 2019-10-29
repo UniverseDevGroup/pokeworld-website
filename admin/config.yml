@@ -8,9 +8,9 @@ media_folder: 'assets/uploads'
 display_url: http://universedevgroup.net
 publish_mode: editorial_workflow
 collections:
-  - name: 'posts'
+  - name: 'post'
     description: 'This is where you can make posts for the website.'
-    label: 'Posts'
+    label: 'Post'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
