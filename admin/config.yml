@@ -5,6 +5,7 @@ backend:
   repo: UniverseDevGroup/pokeworld-website
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
+publish_mode: editorial_workflow
 collections:
   - name: 'posts'
     description: 'This is where you can make posts for the website.'
