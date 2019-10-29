@@ -3,7 +3,7 @@
 backend:
   name: github
   repo: UniverseDevGroup/pokeworld-website
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master
 media_folder: 'assets/uploads'
 display_url: http://universedevgroup.net
 publish_mode: editorial_workflow
