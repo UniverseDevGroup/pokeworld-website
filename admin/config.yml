@@ -5,6 +5,7 @@ backend:
   repo: UniverseDevGroup/pokeworld-website
   branch: master
 media_folder: 'assets/uploads'
+logo_url: /assets/img/universe.png
 display_url: http://universedevgroup.net
 publish_mode: editorial_workflow
 collections:
